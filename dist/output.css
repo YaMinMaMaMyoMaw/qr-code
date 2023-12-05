@@ -544,26 +544,6 @@ video {
   margin-bottom: 0.75rem;
 }
 
-.mt-5 {
-  margin-top: 1.25rem;
-}
-
-.mt-2 {
-  margin-top: 0.5rem;
-}
-
-.mt-1 {
-  margin-top: 0.25rem;
-}
-
-.mt-0 {
-  margin-top: 0px;
-}
-
-.mb-5 {
-  margin-bottom: 1.25rem;
-}
-
 .flex {
   display: flex;
 }
@@ -572,108 +552,40 @@ video {
   height: 260px;
 }
 
-.h-\[460px\] {
-  height: 460px;
+.h-\[500px\] {
+  height: 500px;
 }
 
 .h-screen {
   height: 100vh;
 }
 
-.h-\[560px\] {
-  height: 560px;
+.h-\[600px\] {
+  height: 600px;
 }
 
-.h-\[270px\] {
-  height: 270px;
+.h-\[480px\] {
+  height: 480px;
 }
 
-.h-\[0px\] {
-  height: 0px;
+.h-\[280px\] {
+  height: 280px;
 }
 
-.h-\[330px\] {
-  height: 330px;
+.h-\[250px\] {
+  height: 250px;
 }
 
-.h-\[550px\] {
-  height: 550px;
+.h-\[450px\] {
+  height: 450px;
 }
 
-.h-\[320px\] {
-  height: 320px;
-}
-
-.w-\[260px\] {
-  width: 260px;
+.w-\[250px\] {
+  width: 250px;
 }
 
 .w-\[280px\] {
   width: 280px;
-}
-
-.w-\[280em\] {
-  width: 280em;
-}
-
-.w-\[80em\] {
-  width: 80em;
-}
-
-.w-\[8em\] {
-  width: 8em;
-}
-
-.w-\[10em\] {
-  width: 10em;
-}
-
-.w-\[20em\] {
-  width: 20em;
-}
-
-.w-\[em\] {
-  width: em;
-}
-
-.w-\[18em\] {
-  width: 18em;
-}
-
-.w-\[270px\] {
-  width: 270px;
-}
-
-.w-\[0px\] {
-  width: 0px;
-}
-
-.w-\[300px\] {
-  width: 300px;
-}
-
-.w-\[310px\] {
-  width: 310px;
-}
-
-.w-\[30px\] {
-  width: 30px;
-}
-
-.w-\[350px\] {
-  width: 350px;
-}
-
-.w-\[340px\] {
-  width: 340px;
-}
-
-.w-\[330px\] {
-  width: 330px;
-}
-
-.w-\[320px\] {
-  width: 320px;
 }
 
 .flex-col {
@@ -696,16 +608,16 @@ video {
   overflow: hidden;
 }
 
-.rounded-lg {
-  border-radius: 0.5rem;
+.rounded-md {
+  border-radius: 0.375rem;
 }
 
 .rounded-xl {
   border-radius: 0.75rem;
 }
 
-.rounded-2xl {
-  border-radius: 1rem;
+.rounded-3xl {
+  border-radius: 1.5rem;
 }
 
 .bg-\[\#D6E2F0\] {
@@ -723,17 +635,9 @@ video {
      object-fit: cover;
 }
 
-.p-0 {
-  padding: 0px;
-}
-
 .px-5 {
   padding-left: 1.25rem;
   padding-right: 1.25rem;
-}
-
-.pt-0 {
-  padding-top: 0px;
 }
 
 .text-center {
@@ -753,23 +657,6 @@ video {
   line-height: 1.75rem;
 }
 
-.text-base {
-  font-size: 1rem;
-  line-height: 1.5rem;
-}
-
-.text-\[17px\] {
-  font-size: 17px;
-}
-
-.text-\[18px\] {
-  font-size: 18px;
-}
-
-.font-semibold {
-  font-weight: 600;
-}
-
 .font-bold {
   font-weight: 700;
 }
@@ -777,14 +664,6 @@ video {
 .text-\[\#7B879D\] {
   --tw-text-opacity: 1;
   color: rgb(123 135 157 / var(--tw-text-opacity));
-}
-
-.text-\[\] {
-  color: ;
-}
-
-.text-\[17\] {
-  color: 17;
 }
 
 .shadow-md {
